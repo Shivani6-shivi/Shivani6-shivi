@@ -9,7 +9,7 @@
 <br>
 
 # 💫 About Me:
-🌱 I’m currently upscalling myself & working on some real world problems<br>👨‍💻 All of my projects are available at https://shivaniport.netlify.app/ <br>💬 Ask me about Web Data Visualization, Web Application & Machine Learning<br>💞️ I’m looking to collaborate on some projects based on Data Engineer & Analytics<br>📫 How to reach me shivi@gmail.com
+🌱 I’m currently upscalling myself & working on some real world problems<br>👨‍💻 All of my projects are available at https://shivaniport.netlify.app/ <br>💬 Ask me about AI agents tools & technology <br>💞️ I’m looking to collaborate on some projects based on AI and Data science Engineering <br>📫 How to reach me : you can ping me on Linkdin.
 <br>
 
 ## 🌐 Socials:
