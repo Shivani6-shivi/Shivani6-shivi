@@ -3,8 +3,9 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://shivaniport.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Shivani Patel</h1>
-<h3 align="center">A passionate Data Engineer & Analytics from Jabalpur</h3>
-<p align="center">Working at TCS from last 3.5 years</p>
+<h3 align="center">AI and Data Science Engineer </h3>
+<p align="center">Working at Deloitte </p>
+<p align="center">6 years of Professional experience </p>
 <br>
 
 # 💫 About Me:
